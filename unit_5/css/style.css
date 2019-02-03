@@ -64,11 +64,12 @@ nav{
 #twitter-feed{
 	height: 400px;
 	width:.5em;
-	align-items: right;
+
 }
 .icon-bar {
   position: fixed;
   top: 50%;
+  align-items: right;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
