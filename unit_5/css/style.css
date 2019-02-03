@@ -64,7 +64,7 @@ nav{
 #twitter-feed{
 	height: 400px;
 	width:.5em;
-	text-align: right;
+	align-items: right;
 }
 .icon-bar {
   position: fixed;
