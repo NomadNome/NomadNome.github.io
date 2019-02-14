@@ -68,10 +68,11 @@ nav a{
 	display: inline-block;
 }
 
-.nav_one{
+.nav_one a {
 	font-size: 1.8em;
 	float: right;
 }
+
 #Episode6{
 	font size:400;
 }
