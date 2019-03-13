@@ -6,9 +6,6 @@ body{
 	font-size:18px;
 	font-weight: 400;
 }
-main{
-	float:right;
-}
 h1{
 	color:black;
 	font-family: "EB Garamond", serif;
@@ -24,7 +21,7 @@ h2{
 	font-size:1.5em;
 	line-height:1.5em;
 	margin: 2em;
-	}
+}
 h3{
 	text-indent: 2em;
 	color:#191970;
@@ -33,7 +30,13 @@ h3{
 	text-decoration: underline;
 	border: 10px, black, solid
 	padding: 10px;
-	}
+}
+div{
+	font-size: 1.2em;
+	width: 50%;
+	padding: 2%;
+	display: inline-block;
+}
  p{
 	color: #191970;
 	font-family: "Source Sans Pro", sans-serif;
@@ -61,19 +64,11 @@ ul{
 }
 #content{
 	float:right;
-	margin: em;
-	padding: .5;
 }
 #banner{
 	float:left;
-	padding: .5;
 }
-div{
-	font-size: 1.2em;
-	width: 50%;
-	padding: 2%;
-	display: inline-block;
-}
+
 
 nav{
 	font-size: 1.8em;
