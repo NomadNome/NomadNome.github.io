@@ -29,6 +29,7 @@ h3{
 	text-decoration: underline;
 	border: 10px, black, solid
 	padding: 10px;
+	text-align: center;
 }
 div{
 	font-size: 1.2em;
@@ -40,7 +41,7 @@ article{
 	float: left;
 	margin: 2em;
 	padding: 2%;
-	height: 50%;
+	height: auto;
 	outline: solid #222;
 	text-align: center;
 }
@@ -48,8 +49,8 @@ p{
 	color: #191970;
 	font-family: "Source Sans Pro", sans-serif;
 	font-size:18px;
-	line-height:1.5em;
-	margin: 2em;
+	line-height:auto;
+	margin: 1em;
 	font-variant-position: justify;
 }
 a,footer{
@@ -63,6 +64,21 @@ a,footer{
 img{
 	display: block;
 	margin: 0 auto;
+	height: 400px;
+	width: auto;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
+}
+#hero_image{
+	display: block;
+	height: 400px;
+	width: 100%;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
 }
 ul{
 	list-style: none;
@@ -71,7 +87,9 @@ ul{
 }
 #banner{
 	float:left;
+	display: inline-block;
 }
+
 
 
 nav{
@@ -96,12 +114,14 @@ nav a{
 	font size:400;
 }
 #twitter-feed{
-	width:1em;
-
+	width:500px;
+	margin: 2em;
+	padding: 2%;
 }
 .icon-bar {
-  position: fixed;
   top: 50%;
+  width: 5%;
+  position: fixed;
   align-items: right;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
