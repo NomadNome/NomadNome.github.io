@@ -55,6 +55,10 @@ ul{
 	margin: 0;
 	padding: 0;
 }
+#content{
+	float:right;
+}
+
 nav{
 	font-size: 1.8em;
 	float: right;
