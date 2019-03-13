@@ -48,6 +48,7 @@ a,footer{
 	object-position: 2em;
 	text-align: center;
 	padding: 1em 0;
+	clear: both;
 }
 img{
 	display: block;
