@@ -58,12 +58,12 @@ ul{
 	margin: 0;
 	padding: 0;
 }
-.content{
-	float:left;
+#content{
+	float:right;
 	margin: em;
 	padding: .5;
 }
-.banner{
+#banner{
 	float:right;
 }
 
