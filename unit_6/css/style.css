@@ -40,7 +40,8 @@ div{
 article{
 	float: left;
 	width: 50%;
-	height: 3em;
+	height: 6em;
+	outline: 3px solid #222;
 }
  p{
 	color: #191970;
