@@ -42,6 +42,8 @@ article{
 	width: 25%;
 	height: 3em;
 	outline: 3px solid black;
+	text-align: center;
+	line-height: 3em;
 }
  p{
 	color: #191970;
