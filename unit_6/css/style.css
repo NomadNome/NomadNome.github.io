@@ -37,19 +37,11 @@ div{
 	padding: 2%;
 	display: inline-block;
 }
-<<<<<<< HEAD
 article{
-	float: right;
+	float: left;
 	width: 50%;
-<<<<<<< HEAD
 	height: 3em;
-	padding: 1em;
-=======
-	height: 6em;
->>>>>>> parent of 2e1a6fc... style changes
 }
-=======
->>>>>>> parent of 69092af... article
  p{
 	color: #191970;
 	font-family: "Source Sans Pro", sans-serif;
