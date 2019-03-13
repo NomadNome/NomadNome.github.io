@@ -56,10 +56,10 @@ ul{
 	padding: 0;
 }
 #content{
-	float:right;
+	float:left;
 }
 #banner{
-	float:left;
+	float:right;
 }
 
 nav{
