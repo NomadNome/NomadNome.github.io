@@ -57,6 +57,8 @@ ul{
 }
 .content{
 	float:left;
+	margin:em;
+	padding:.5;
 }
 .banner{
 	float:right;
