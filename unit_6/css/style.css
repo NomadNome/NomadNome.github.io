@@ -58,6 +58,9 @@ ul{
 #content{
 	float:right;
 }
+#banner{
+	float:left;
+}
 
 nav{
 	font-size: 1.8em;
