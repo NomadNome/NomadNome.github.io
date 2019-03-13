@@ -37,10 +37,7 @@ div{
 	padding: 2%;
 	display: inline-block;
 }
-article{
-	width: 50%;
-	height: 6em;
-	outline: 3px solid #222;
+
 }
 p{
 	color: #191970;
