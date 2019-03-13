@@ -68,6 +68,12 @@ ul{
 	float:left;
 	padding: .5;
 }
+div{
+	font-size: 1.2em;
+	width: 50%;
+	padding: 2%;
+	display: inline-block;
+}
 
 nav{
 	font-size: 1.8em;
