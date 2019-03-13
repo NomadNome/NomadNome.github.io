@@ -64,7 +64,8 @@ ul{
 	padding: .5;
 }
 #banner{
-	float:right;
+	float:left;
+	padding: .5;
 }
 
 nav{
