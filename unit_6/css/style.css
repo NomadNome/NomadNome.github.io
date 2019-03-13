@@ -41,6 +41,7 @@ article{
 	float: left;
 	width: 25%;
 	height: 3em;
+	outline: 3px solid #222;
 }
  p{
 	color: #191970;
