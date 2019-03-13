@@ -40,6 +40,9 @@ article{
 	float: left;
 	margin: 2em;
 	padding: 2%;
+	height: 50%;
+	outline: solid #222;
+	text-align: center;
 }
 p{
 	color: #191970;
@@ -93,8 +96,7 @@ nav a{
 	font size:400;
 }
 #twitter-feed{
-	height: 400px;
-	width:.5em;
+	width:1em;
 
 }
 .icon-bar {
