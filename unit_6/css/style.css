@@ -38,7 +38,7 @@ div{
 	display: inline-block;
 }
 article{
-	float: right;
+	float: left;
 	width: 50%;
 	height: 6em;
 	outline: 3px solid #222;
