@@ -37,13 +37,13 @@ div{
 	padding: 2%;
 	display: inline-block;
 }
-	article{
+article{
 	float: left;
-	width: 20%;
-	height: 6em; 
+	width: 50%;
+	height: 6em;
 	outline: 3px solid #222;
-	}
-p{
+}
+ p{
 	color: #191970;
 	font-family: "Source Sans Pro", sans-serif;
 	font-size:18px;
@@ -102,7 +102,7 @@ nav a{
 .icon-bar {
   position: fixed;
   top: 50%;
-  align-items: left;
+  align-items: right;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
