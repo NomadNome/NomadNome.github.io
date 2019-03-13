@@ -39,6 +39,7 @@ div{
 article{
 	float: left;
 	width: 50%;
+	margin: 2em;
 	height: 6em;
 	outline: 3px solid #222;
 }
