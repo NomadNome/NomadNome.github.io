@@ -40,11 +40,7 @@ div{
 article{
 	float: left;
 	width: 20%;
-<<<<<<< HEAD
-	height: 1.5em;
-=======
-	height: 6em;
->>>>>>> parent of 57c1cdb... size
+	height: 6em; 
 	outline: 3px solid #222;
 }
  p{
