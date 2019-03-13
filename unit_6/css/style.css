@@ -55,10 +55,10 @@ ul{
 	margin: 0;
 	padding: 0;
 }
-#content{
+.content{
 	float:left;
 }
-#banner{
+.banner{
 	float:right;
 }
 
@@ -137,11 +137,6 @@ nav a{
   color: white;
 }
 header{
-
-}
-}
-}
-}
 color: black;
 
 }
