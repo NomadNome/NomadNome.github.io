@@ -37,6 +37,11 @@ div{
 	padding: 2%;
 	display: inline-block;
 }
+article{
+	float: left;
+	width: 50%;
+	height: 6em;
+}
  p{
 	color: #191970;
 	font-family: "Source Sans Pro", sans-serif;
