@@ -37,7 +37,7 @@ div{
 	padding: 2%;
 	display: inline-block;
 }
-article{
+#profiles-list{
 	float: left;
 	margin: 2em;
 	padding: 2%;
@@ -111,9 +111,6 @@ nav a{
 	float: right;
 }
 
-#Episode6{
-	font size:400;
-}
 #twitter-feed{
 	width:500px;
 	margin: 2em;
