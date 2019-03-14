@@ -36,7 +36,7 @@ div{
 	height: auto;
 	outline: solid #222;
 	text-align: center;
-	outline: yellow;
+	outline: yellow; 
 
 }
 p{
@@ -82,6 +82,7 @@ a,footer{
   	background-repeat: no-repeat;
   	background-size: cover;
   	position: relative;
+  	clear:both;
 }
 ul{
 	list-style: none;
@@ -112,6 +113,7 @@ nav a{
 .nav_one a {
 	font-size: 1.8em;
 	float: right;
+	clear: both;
 }
 
 #twitter-feed{
