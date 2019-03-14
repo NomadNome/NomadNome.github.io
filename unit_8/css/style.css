@@ -17,7 +17,7 @@ h1{
 h2{
 	color:black;
 	font-family: "EB Garamond", "georgia", serif;
-	font-size:1.5em;
+	font-size:1em;
 	line-height:1.5em;
 	margin: 2em;
 }
@@ -25,7 +25,7 @@ h3{
 	text-indent: 2em;
 	color:#191970;
 	font-family: "Source Sans Pro", sans-serif;
-	font-size:1.3em;
+	font-size:.8em;
 	text-decoration: underline;
 	border: 10px, black, solid
 	padding: 10px;
@@ -41,9 +41,6 @@ div{
 	float:right;
 }
 #profiles-list{
-	float: left;
-	margin: 2em;
-	padding: 2%;
 	height: auto;
 	outline: solid #222;
 	text-align: center;
@@ -51,10 +48,9 @@ div{
 p{
 	color: #191970;
 	font-family: "Source Sans Pro", sans-serif;
-	font-size:18px;
-	line-height:auto;
+	font-size:.7em;
+	line-height:1.5em;
 	margin: 1em;
-	font-variant-position: justify;
 }
 a,footer{
 	font-family: "Source Sans Pro", sans-serif;
@@ -64,21 +60,11 @@ a,footer{
 	padding: 1em 0;
 	clear: both;
 }
-img{
-	display: block;
-	margin: 0 auto;
-	height: 400px;
-	width: 1em;
-	background-position: center;
-  	background-repeat: no-repeat;
-  	background-size: cover;
-  	position: relative;
-}
 #hero_image{
 	display: block;
-	margin: 0 auto;
+	margin: 1.8em;
 	height: 400px;
-	width: 100%;
+	width: auto;
 	background-position: center;
   	background-repeat: no-repeat;
   	background-size: cover;
@@ -94,7 +80,15 @@ ul{
 	display: inline-block;
 }
 
-
+img{
+	display: block;
+	margin: 0 auto;
+	height: 400px;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
+}
 
 nav{
 	font-size: 1.8em;
