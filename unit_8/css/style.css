@@ -33,12 +33,12 @@ h3{
 }
 div{
 	font-size: 1.2em;
-	width: 46%;
-	padding: 2%;
 	display: inline-block;
 }
 #content{
 	float:right;
+	width: 76%;
+	padding: 4%;
 }
 #profiles-list{
 	height: auto;
@@ -81,6 +81,8 @@ ul{
 #banner{
 	float:left;
 	display: inline-block;
+	width: 18%;
+	padding: 2%;
 }
 
 img{
