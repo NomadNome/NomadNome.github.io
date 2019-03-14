@@ -19,6 +19,7 @@ div{
 	font-size: 1.2em;
 	outline: solid black;
 }
+
 #content{
 	float:right;
 	width: 65%;
@@ -28,7 +29,7 @@ div{
 #banner{
 	float:left;
 	display: inline-block;
-	width: 23%;
+	width: 30%;
 	padding: 1%;
 	margin: 0; 
 }
@@ -128,6 +129,7 @@ nav a{
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
+  clear: both;
 }
 
 /* Style the icon bar links */
