@@ -37,6 +37,9 @@ div{
 	padding: 2%;
 	display: inline-block;
 }
+#content{
+	float:right;
+}
 #profiles-list{
 	float: left;
 	margin: 2em;
@@ -65,7 +68,7 @@ img{
 	display: block;
 	margin: 0 auto;
 	height: 400px;
-	width: auto;
+	width: 1em;
 	background-position: center;
   	background-repeat: no-repeat;
   	background-size: cover;
