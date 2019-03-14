@@ -17,12 +17,10 @@ h1{
 
 div{
 	font-size: 1.2em;
-	display: inline-block;
 	outline: solid black;
 }
 #content{
 	float:right;
-	display: inline-block;
 	width: 65%;
 	margin: 0;
 	padding: 3%;
