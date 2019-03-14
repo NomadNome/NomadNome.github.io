@@ -34,6 +34,7 @@ div{
 	margin: 0; 
 }
 #profiles-list{
+	float:none;
 	height: auto;
 	outline: solid #222;
 	text-align: center;
@@ -78,7 +79,6 @@ a,footer{
 	display: block;
 	margin: 1.8em;
 	height: 400px;
-	width: auto;
 	background-position: center;
   	background-repeat: no-repeat;
   	background-size: cover;
